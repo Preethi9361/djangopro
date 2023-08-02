@@ -1,0 +1,2 @@
+# djangopro
+ django project
